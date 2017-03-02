@@ -1,8 +1,6 @@
 Pão Frances
 Pao italiano
-<<<<<<< HEAD
 rodrigo.maria
-=======
 Pão integral
 Pão cacetinho, um classico
->>>>>>> dd9e5eb7a8bdf01e997f169f25aa0d2c55938a1b
+Pão com ovo
